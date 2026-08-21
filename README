@@ -1,9 +1,17 @@
-titulo del trabajo practico
+# COMPRA GAMER
 
 ---
 
-descripcion(que hace el proyecto, para que sirve, publico objetivo)
+## Descripción
+
+Este es un proyecto de programación con enfoque frontend sobre una página de compra y venta de articulos de hardware para el armado de computadoras. Esta página web servira como tienda virtual de productos relacionados con PCs tipo gamer, es decir, que se enfoquen en la optimización y soporte de videojuegos.
+El enfoque principal será en la visualización y selección de productos utilizando un catalogo, del que el usuario podrá elegir un grupo de productos para luego realizar una compra. Finalmente, el usuario podrá administrar el proceso de envio de sus productos.
+Esta página tiene como público objetivo a personas interesadas en el tecnología, por lo que se debe priorizar la velocidad y eficiencia en el movimiento entre apartados del proyecto.
+
+[descripcion(que hace el proyecto, para que sirve, publico objetivo)]
 
 ---
 
-Guia nuevo miembro del equipo (como bajo el repo, como hago el flujo, definir estructura de la discripcion del commit, como se va a trabajar(nombre de el que hace la PR y quien verifica))
+## Guía de Desarrollo
+
+[Guia nuevo miembro del equipo (como bajo el repo, como hago el flujo, definir estructura de la discripcion del commit, como se va a trabajar(nombre de el que hace la PR y quien verifica))]
