@@ -50,7 +50,7 @@ Los commits deberán utilizar una estructura clara que permita identificar rápi
 
 Ejemplos:
 
-| Descripciónn                 |
+| Descripción                  |
 | ---------------------------- |
 | Agregar tarjeta de producto  |
 | Corregir diseño del carrito  |
