@@ -1,6 +1,6 @@
 # COMPRA GAMER
 
----
+![Logo](logo.png)
 
 ## Descripción
 
