@@ -1,15 +1,70 @@
 # COMPRA GAMER
 
+---
+
 ## Descripción
 
-Este es un proyecto de programación con enfoque frontend sobre una página de compra y venta de articulos de hardware para el armado de computadoras. Esta página web servira como tienda virtual de productos relacionados con PCs tipo gamer, es decir, que se enfoquen en la optimización y soporte de videojuegos.
-El enfoque principal será en la visualización y selección de productos utilizando un catalogo, del que el usuario podrá elegir un grupo de productos para luego realizar una compra. Finalmente, el usuario podrá administrar el proceso de envio de sus productos.
-Esta página tiene como público objetivo a personas interesadas en el tecnología, por lo que se debe priorizar la velocidad y eficiencia en el movimiento entre apartados del proyecto.
+Este es un proyecto de programación con enfoque **frontend**, basado en el desarrollo de una tienda virtual de productos de hardware para computadoras gamer.
 
-[descripcion(que hace el proyecto, para que sirve, publico objetivo)]
+La página permitirá a los usuarios **explorar, buscar y visualizar productos** como procesadores, placas de video, memorias RAM, almacenamiento, fuentes de alimentación y otros componentes utilizados para el armado y actualización de computadoras.
+
+El objetivo principal del proyecto es desarrollar una interfaz **rápida, intuitiva y fácil de utilizar**, donde el usuario pueda recorrer el catálogo, consultar la información de los productos y seleccionar aquellos que sean de su interés.
+
+El sitio estará orientado principalmente a **personas interesadas en tecnología, hardware y videojuegos**, tanto usuarios que buscan comprar componentes para armar una computadora como aquellos que desean actualizar su equipo.
+
+Desde el frontend se priorizará la **experiencia de usuario**, la organización visual de los productos, la navegación entre las distintas secciones y la adaptación de la página a diferentes tamaños de pantalla.
 
 ---
 
 ## Guía de Desarrollo
 
-[Guia nuevo miembro del equipo (como bajo el repo, como hago el flujo, definir estructura de la discripcion del commit, como se va a trabajar(nombre de el que hace la PR y quien verifica))]
+La guía de desarrollo tendrá como objetivo facilitar la incorporación de nuevos integrantes al equipo y establecer una metodología de trabajo común.
+
+### Clonar el repositorio
+
+Para comenzar a trabajar en el proyecto, se deberá clonar el repositorio y acceder a la carpeta correspondiente:
+
+```bash
+git clone https://github.com/franrapetti/Compra-Gamer-G9.git
+cd Compra-Gamer-G9
+```
+
+Luego se deberán instalar las dependencias necesarias para ejecutar el proyecto.
+
+### Flujo de trabajo
+
+Para realizar cambios en el proyecto se deberá:
+
+1. Actualizar la rama principal antes de comenzar a trabajar.
+2. Crear una rama nueva para la funcionalidad o modificación.
+3. Realizar los cambios correspondientes.
+4. Probar que los cambios funcionen correctamente.
+5. Realizar el commit siguiendo la estructura establecida.
+6. Subir la rama al repositorio.
+7. Crear una Pull Request.
+8. La Pull Request deberá ser revisada y aprobada por otro integrante del equipo antes de incorporarse a la rama principal.
+
+### Estructura de los commits
+
+Los commits deberán utilizar una estructura clara que permita identificar rápidamente qué tipo de modificación se realizó.
+
+Ejemplos:
+
+```text
+feat: agregar tarjeta de producto
+fix: corregir diseño del carrito
+style: ajustar estilos del catálogo
+refactor: reorganizar componentes
+docs: actualizar documentación
+```
+
+### Pull Requests
+
+Cada Pull Request deberá indicar claramente:
+
+- Qué funcionalidad o modificación se realizó.
+- Qué archivos o componentes fueron modificados.
+- Si existen aspectos que requieren especial atención durante la revisión.
+- El nombre del integrante que realizó la modificación.
+
+Cada Pull Request deberá contar con un **revisor diferente al desarrollador que realizó los cambios**. El revisor deberá comprobar que la funcionalidad cumpla con lo solicitado y que no introduzca errores en otras partes del proyecto antes de aprobarla.
