@@ -1,7 +1,5 @@
 # COMPRA GAMER
 
----
-
 ## Descripción
 
 Este es un proyecto de programación con enfoque frontend sobre una página de compra y venta de articulos de hardware para el armado de computadoras. Esta página web servira como tienda virtual de productos relacionados con PCs tipo gamer, es decir, que se enfoquen en la optimización y soporte de videojuegos.
