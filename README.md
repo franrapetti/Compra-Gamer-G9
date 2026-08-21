@@ -50,13 +50,13 @@ Los commits deberán utilizar una estructura clara que permita identificar rápi
 
 Ejemplos:
 
-```text
-feat: agregar tarjeta de producto
-fix: corregir diseño del carrito
-style: ajustar estilos del catálogo
-refactor: reorganizar componentes
-docs: actualizar documentación
-```
+| Tipo     | Descripciónn                 |
+| -------- | ---------------------------- |
+| feat     | Agregar tarjeta de producto  |
+| fix      | Corregir diseño del carrito  |
+| style    | Ajustar estilos del catálogo |
+| refactor | Reorganizar componentes      |
+| docs     | Actualizar documentación     |
 
 ### Pull Requests
 
